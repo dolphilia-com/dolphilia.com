@@ -1,0 +1,24 @@
+{
+  "name": "dolphilia.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dolphilia/dolphilia.com.git",
+  "author": "dolphilia <dolphilia@outlook.com>",
+  "license": "none",
+  "devDependencies": {
+    "@iktakahiro/markdown-it-katex": "^4.0.1",
+    "mermaid": "^10.6.1",
+    "vitepress": "^1.0.0-alpha.45",
+    "vitepress-plugin-mermaid": "^2.0.15",
+    "vue": "^3.2.47"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "dependencies": {
+    "@traptitech/markdown-it-katex": "^3.6.0",
+    "markdown-it-katex": "^2.0.3"
+  }
+}
