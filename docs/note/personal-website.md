@@ -2,18 +2,23 @@
 title:お気に入りのリンク集
 ---
 
-# 個人サイトのリンク集
+## 個人サイトのリンク集
 
 私のお気に入りの個人サイトを集めました。個人的なブックマークとして使っています。
 
-::: info 
-以下のサービスを使用したウェブサイトは除外しています。
+::: info
 
-Wix / Jimdo / Weebly / Lit.link / potofu / portforiobox / folio / xfolio / Adobe Portfolio / Tumblr / ペライチ / Strikingly Ameba Ownd / (WordPress)
+以下のサービス等を使用したウェブサイトは除外しています。
+
+Wix / Jimdo / Weebly / Lit.link / potofu / portforiobox / folio / xfolio / Adobe Portfolio / Tumblr / ペライチ / Strikingly Ameba Ownd / (WordPress) / Studio.Design / foriio / Carrd / Ameba Ownd / strikingly / Agence LE MONDE /
+Google サイト
+
+テーマの利用
+
 :::
 
-
 ::: details 分類の方法を考え中・・・
+
 - 少ない ← ページ数 → 多い
 - 少ない ← 情報量 → 多い
 - 控えめ ←　主張 → 激しい
@@ -22,9 +27,39 @@ Wix / Jimdo / Weebly / Lit.link / potofu / portforiobox / folio / xfolio / Adobe
 - レトロ ← 新旧 → モダン
 - 雑然 ← 整頓 → 整然
 - 狭い ← 広さ → 広い
+
 :::
 
 ## イラスト・漫画・アニメ
+
+### 新規追加
+
+- [syoyo(しょうよう)](https://www.syooooyoooo.com)
+- [栞しい](https://shiorishii.com)
+- [間明田](https://www.mamy6o6.com)
+- [リック](https://rick-graphics.com)
+- [斎賀時人](https://saigatokihito.com)
+- [ぽんすけかいかい](https://kaikaipnsk.com)
+- [芦屋マキ](https://www.ashiya-maki.com)
+- [ezu](https://ezu104k.jp)
+- [モトクロス斉藤](http://anchovyjourney.web.fc2.com)
+- [わす](https://www.cermrnl.com)
+- [方块阿兽](https://qiudong-art.com)
+- [中村一般](https://www.nakamuraippan.com)
+- [夢ノ内](https://yumeworks.girly.jp)
+- [だんごたそ](https://dangotaso.com)
+- [JH科学JohnHathway](https://mots.jp)
+- [朔月八雲](https://syakumo.com)
+- [ならの](https://nara-lalana.com)
+- [れい亜](http://ranicaronica.net)
+- [VERTI](https://vertigris.net)
+- [mochipanko](https://mochipanko.com)
+- [中野カヲル](https://kaworunakano.com)
+- [孳々](http://ggkoki69.com)
+- [P-Shinobi](https://boomslank.com)
+- [はやしなおゆき](https://noyk.info)
+- [michellekuku](https://michellekuku.com)
+- [Ryoji YAMADA](https://ryojiyamada.com)
 
 ### 個性とデザインの両立
 
@@ -38,6 +73,7 @@ Wix / Jimdo / Weebly / Lit.link / potofu / portforiobox / folio / xfolio / Adobe
 - [絹谷ゆたか](https://www.kinutaniyutaka.com)
 - [またよし](https://matayosi.oops.jp)
 - [岡森くお](http://kuolia.jp)
+- [もけお](https://buttoi.onmitsu.jp)
 
 ### 複数ページ型
 
