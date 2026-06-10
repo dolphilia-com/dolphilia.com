@@ -2,33 +2,35 @@
 title:お気に入りのリンク集
 ---
 
-## 個人サイトのリンク集
+# 個人サイトのリンク集
 
 私のお気に入りの個人サイトを集めました。個人的なブックマークとして使っています。
 
-::: info
+デザインを選べるウェブ制作サービスや既存のテーマを使用したウェブサイトは除外しています。
 
-以下のサービス等を使用したウェブサイトは除外しています。
+例えば、以下のようなサービスが含まれます。
 
-Wix / Jimdo / Weebly / Lit.link / potofu / portforiobox / folio / xfolio / Adobe Portfolio / Tumblr / ペライチ / Strikingly Ameba Ownd / WordPress / Studio.Design / foriio / Carrd / Ameba Ownd / strikingly / Agence LE MONDE /
-Google サイト / Format
-
-テーマの利用
-
-:::
-
-::: details 分類の方法を考え中・・・
-
-- 少ない ← ページ数 → 多い
-- 少ない ← 情報量 → 多い
-- 控えめ ←　主張 → 激しい
-- 文字 ← → 絵
-- 寒色 ← 色味 → 暖色
-- レトロ ← 新旧 → モダン
-- 雑然 ← 整頓 → 整然
-- 狭い ← 広さ → 広い
-
-:::
+- Wix
+- Jimdo
+- Weebly
+- Lit.link
+- potofu
+- portforiobox
+- folio
+- xfolio
+- Adobe Portfolio
+- Tumblr
+- ペライチ
+- Strikingly Ameba Ownd
+- WordPress（テーマ使用）
+- Studio.Design
+- foriio
+- Carrd
+- Ameba Ownd
+- strikingly
+- Agence LE MONDE
+- Google サイト
+- Format
 
 ## イラスト・漫画・アニメ
 
@@ -149,16 +151,14 @@ Google サイト / Format
 - [もくもしえる](https://mokumosieru.com)
 - [模造クリスタル](http://www.mozocry.com)
 
-### 充実した情報量
-
-- [神村幸子](http://animatorweb.jp/)
-
 ### 絵本系
 
 - [いなほゆら](http://mof.chu.jp)
 - [森さやか](http://www.sayakamori.jp/)
 - [しぶぞー](https://shibuzoh.com)
 - [けねでぃまりぃ](https://www.mariekennedy77.com)
+- [よねこめ](http://iroharetro.com/)
+- [さとうゆか](https://sato-yuka.com/)
 
 ### 小物系
 
@@ -171,8 +171,6 @@ Google サイト / Format
 
 ### 漫画
 
-- [ねことうふ](http://grin.oops.jp)
-- [DEUSTELLA](https://www.deustella.com)
 - [くろば・Ｕ](https://zenpo-huchui.com)
 - [秋田モルグ](https://morgue.nukarumi.net)
 - [火曜](http://kayoubiii.web.fc2.com)
@@ -192,12 +190,10 @@ Google サイト / Format
 - [未影](https://www5e.biglobe.ne.jp/~curry/)
 - [双見酔](https://ts.sh49.net)
 - [ヒロユキ](https://seijunha.com)
-
-### テンプレート使用
-
-- [いかり](https://ikari13.com)
-- [えいひ](https://ei.2-d.jp)
-- [もとなおこ](http://moto-naoko.com)
+- [CLAMP](https://clamp-net.com/)
+- [saxyun](http://saxyun.sakura.ne.jp/)
+- [サンカクヘッド](http://sankakuhead.main.jp/)
+- [アキホ](http://kamihitoe1.web.fc2.com/)
 
 ### 分類前
 
@@ -218,9 +214,7 @@ Google サイト / Format
 - [つなこ](https://www.tunamayoza.com)
 - [みたらしねこ](https://mitarashi-neko.sakura.ne.jp/wp/)
 - [風ことら](http://aononiwa.web.fc2.com)
-- [宮月もそこ](https://mosoko.jp)
 - [とけし](https://tokesabo.com)
-- [Takako](https://www.rum-ice.com)
 - [もの](https://nekogoya.com)
 - [黄菊しーく](https://si-ku.art)
 - [ならの](https://nara-lalana.com)
@@ -242,32 +236,23 @@ Google サイト / Format
 - [いとうのいぢ](http://www.fujitsubo-machine.jp)
 - [りいちゅ](http://vungo.hanagasumi.net)
 - [すいみゃ](https://www.suimya.com)
-- [あきま](http://akimasaweb.3zoku.com)
 - [waneella](https://www.waneella.com/)
-- [CLAMP](https://clamp-net.com/)
-- [saxyun](http://saxyun.sakura.ne.jp/)
-- [サンカクヘッド](http://sankakuhead.main.jp/)
-- [アキホ](http://kamihitoe1.web.fc2.com/)
 - [ならかっぱ](http://narahome.web.fc2.com/)
 - [新海誠](http://www.shinkaiworks.com/)
 - [momochy](http://www.momochy.com/)
-- [NOTRE](http://mauve313.com/)
 - [RIKI](http://riki2riki.com/index.html)
 - [MATSUDA98](http://mat98.littlestar.jp/)
-- [POO](http://karma.hacca.jp/)
+- [南野あき](http://karma.hacca.jp/)
 - [あさか](http://oldlace.ehoh.net/)
-- [さとうゆか](https://sato-yuka.com/)
 - [こより](http://koyori.org/)
 - [ごとP](http://www.mirai.ne.jp/~gotop/)
 - [すみす](http://rinsumi.yukishigure.com/)
 - [そと](http://sotoks.sakura.ne.jp/)
 - [ちと](http://tito.sakura.ne.jp/ie/)
 - [ねこまたや](http://www.nekomataya.info/)
-- [はしゃ](http://hasya.nomaki.jp/)
 - [ぽり](http://mogron.web.fc2.com/)
 - [もにかにこ](https://ncmonicanc.myportfolio.com/)
 - [やまい](http://lsd2.sakura.ne.jp/)
-- [よねこめ](http://iroharetro.com/)
 - [あまか](http://sky.karou.jp/)
 - [望月千夜](http://choco.iza-yoi.net/)
 - [観城はるか](http://himaoka.sakura.ne.jp/)
@@ -277,13 +262,11 @@ Google サイト / Format
 - [粉冬ユキヒロ](http://tail.moo.jp/)
 - [秋津たいら](https://cowbelltiara.sakura.ne.jp/)
 - [由杞](http://www.usamimi.info/~yosiki59/)
-- [蒼樹うめ](http://ap.sakuraweb.com/)
 - [漣ミサ](http://3373hp.com/)
 - [浪人](https://www.lagrange9.com/)
 - [リクノ](https://www.eshinosato.com/)
 - [流星光](http://hikaru.m49.coreserver.jp/)
 - [中村成一](http://www.asahi-net.or.jp/~zm5s-nkmr/)
-- [草壁レイ](http://herebrand.com)
 
 
 ### 講座
@@ -321,10 +304,7 @@ Google サイト / Format
 ### CPU・処理系
 
 - [Atelier Blue](http://www.atelier-blue.com/program/il/index.htm)
-- [takuto-h](http://www.geocities.jp/takt0_h/index.html)
-- [S](http://www.interq.or.jp/chubu/r6/index.html)
 - [あすかぜ](https://www.asukaze.net/)
-- [うさぴょん](http://hp.vector.co.jp/authors/VA028184/)
 - [おにたま](http://www.onionsoft.net/)
 - [くいなちゃん](http://kuina.ch/)
 - [たたも](http://tatamo.81.la/)
@@ -341,18 +321,15 @@ Google サイト / Format
 
 - [広井誠](http://www.nct9.ne.jp/m_hiroi/index.html)
 - [柴田望洋](http://www.bohyoh.com/)
-- [Programming Place Plus](http://ppp-lab.sakura.ne.jp/index_ppp.shtml)
+- [Programming Place Plus](https://programming-place.net/ppp/index.html)
 - [紫藤貴文](http://www.shido.info/)
 - [私のおもちゃ箱](http://masudahp.web.fc2.com/)
 - [シニアエンジニアの庵](http://sehermitage.web.fc2.com/program/c_stdlib.html)
 - [ロベール](http://www7b.biglobe.ne.jp/~robe/index.html)
-- [ともじ](http://www9.plala.or.jp/sgwr-t)
 - [MMGames](http://9cguide.appspot.com/)
 - [C言語サイト管理人](http://www.c-lang.org/)
 - [株式会社オーキッド](http://www.orchid.co.jp/)
 - [勇躍のゴミ箱](http://simd.jugem.jp/)
-- [ムーミン](http://hitorilife.com/)
-- [Kojo Sugita](http://www.c-tipsref.com/)
 - [ＹＦプロ](http://www1.cts.ne.jp/~clab/)
 - [Tomy](http://www5.airnet.ne.jp/tomy/cpro/csource.htm)
 - [岩永信之](http://ufcpp.net/)
@@ -360,42 +337,31 @@ Google サイト / Format
 - [Kohe Tokoi](http://marina.sys.wakayama-u.ac.jp/~tokoi/)
 - [渕野昌](http://fuchino.ddo.jp/)
 - [佐藤三久](http://www.hpcs.cs.tsukuba.ac.jp/~msato/)
-- [大石進一](http://www.oishi.info.waseda.ac.jp/~oishi/)
 
 ### サウンドプログラミング
 
-- [mml2mid](http://hpc.jp/~mml2mid/)
 - [モハヨナオ](https://mohayonao.github.io/)
 - [青木直史](http://floor13.sakura.ne.jp/)
 
 ### プログラミング技術
 
-- [青木靖](http://www.aoky.net/)
 - [徳丸浩](http://www.tokumaru.org/)
-- [smeghead](http://starbug1.com/)
 - [伊藤大司](http://atmarkplant.com/)
 - [岩田英丈](https://hidetake.org/)
 - [Hiroki Kato](http://cockscomb.info/)
-- [Jorn Kinderas](http://www.kinderas.com/)
 - [68user](http://x68000.q-e-d.net/~68user/)
-- [鎌田誠](http://stdkmd.com/)
 
 ### アプリ開発
 
 - [ぽな](http://ssp.shillest.net/)
-- [Azel](http://azsky2.html.xdomain.jp/)
-- [sirochro](http://sirochro.com/)
+- [Azel](https://azelpg.gitlab.io/azsky2/index.html)
 - [ls](http://usada.sakura.vg/)
 - [ひよひよ](http://suishoshizuku.com/ja/)
 
 ### ウェブ開発
 
-- [saruhashi](http://www.htmq.com/)
 - [mozilla](https://developer.mozilla.org/ja/docs)
-- [buzzword](http://www.ajaxtower.jp/)
 - [STUDIO KINGDOM](http://js.studio-kingdom.com/)
-- [WordPressカスタマイズ事典](http://wpcj.net/)
-- [khondalit](http://linuxc.info/)
 
 ### ゲーム開発
 
@@ -412,12 +378,7 @@ Google サイト / Format
 - [カタテマ](http://katatema.main.jp/)
 - [悠遠物語](http://fa2.s372.xrea.com/es/es.htm)
 - [紅音](http://www5.big.or.jp/~high/VENIO/)
-- [西高科学部](http://www.geocities.jp/nishikou_kagakubu/)
 - [渡辺訓章](http://susami.co.jp/kuni/)
-
-### ゲーム素材等
-
-- [ぴぽや](http://blog.pipoya.net/)
 
 ### ゲーム開発解説
 
@@ -428,18 +389,14 @@ Google サイト / Format
 
 ## デザイン・WEB・ガジェット
 
-- [Daniel Kordan](http://danielkordan.com/)
-- [あらゆ](https://syncer.jp/)
-- [ながしまきょう](https://kyonagashima.com/)
-- [ろくぜうどん](http://www.rokuzeudon.com/)
-- [佐野章核](http://www.sanographix.net/)
+- [ながしまきょう](https://hail2u.net/)
+- [佐野章核](https://sanographix.net)
 - [puu_zzz](http://free-style.mkstyle.net/web/)
 
 ### ニュース・ガジェット・レビュー・ブロガー
 
 - [Appleちゃんねる](http://applech2.com/)
 - [FloatGarden](http://www.floatgarden.net/)
-- [いるかアイス](http://www.irucaice.net/)
 - [がじぇっと部](http://mupon.net/)
 - [ときかけうさぎ](http://www.clockroom.net/)
 - [ジャガアポー](http://www.moxbit.com/)
@@ -454,7 +411,6 @@ Google サイト / Format
 
 - [ymt3D](http://3dnchu.com/)
 
-
 ### 語学
 
 - [人工言語学研究会](http://conlinguistics.org/)
@@ -466,8 +422,5 @@ Google サイト / Format
 
 ### 写真
 
+- [Daniel Kordan](http://danielkordan.com/)
 - [studio9](http://photo-studio9.com/compression-effect/)
-
-### ウェブアーカイブ
-
-- [新屋健志](http://web.archive.org/web/20010219100034/http://zatsubunkan.net/index.html)
