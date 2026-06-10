@@ -10,8 +10,8 @@ title:お気に入りのリンク集
 
 以下のサービス等を使用したウェブサイトは除外しています。
 
-Wix / Jimdo / Weebly / Lit.link / potofu / portforiobox / folio / xfolio / Adobe Portfolio / Tumblr / ペライチ / Strikingly Ameba Ownd / (WordPress) / Studio.Design / foriio / Carrd / Ameba Ownd / strikingly / Agence LE MONDE /
-Google サイト
+Wix / Jimdo / Weebly / Lit.link / potofu / portforiobox / folio / xfolio / Adobe Portfolio / Tumblr / ペライチ / Strikingly Ameba Ownd / WordPress / Studio.Design / foriio / Carrd / Ameba Ownd / strikingly / Agence LE MONDE /
+Google サイト / Format
 
 テーマの利用
 
@@ -60,6 +60,65 @@ Google サイト
 - [はやしなおゆき](https://noyk.info)
 - [michellekuku](https://michellekuku.com)
 - [Ryoji YAMADA](https://ryojiyamada.com)
+- [niko4696](https://www.4696.digital)
+- [まごつき](https://hurray.fun)
+- [ア・メリカ](https://www.amelicart.com)
+- [二反田こな](https://nitandacona.work)
+- [pikaole](http://pikaole.com)
+- [田中寛崇](https://gomnaga.org)
+- [まくらたみ](https://makuratami.com)
+- [なるめ](https://narume.work)
+- [チェリ子](https://www.cherico-cerise.net)
+- [TAO](https://tao15102.com)
+- [Naomi](https://naomivandoren.com)
+- [優子鈴](https://www.yukoring.com)
+- [PALOW.](http://palow.me)
+- [宇野山 むじ](https://image-labo.com)
+- [ときわた](https://tokiwata.com)
+- [塗壁](https://nurikabenurinuri.web.fc2.com)
+- [najuco](https://najuco.com/)
+- [paperlarva](https://paperlarva.com)
+- [NaBaBa](http://bananabona.com)
+- [Whispwill](https://www.whispyshop.com)
+- [神慶](https://www.jinkei-bunny.com)
+- [ヒョーゴノスケ](http://hyogonosuke.com)
+- [ELIOLI](https://www.elioliart.net)
+- [もりちか](http://www.marutar.com)
+- [淵゛(ぶち)](https://buchi-qoo3.com)
+- [mignon](https://cannondo.biz)
+- [lack](https://nankano.shisyou.com)
+- [TV♡CHANY](https://www.tvchany.com)
+- [浪人](https://www.lagrange9.com)
+- [もみじ真魚](https://www.maomomiji.com)
+- [宇木敦哉](http://www.ukix.org/nl/index.html)
+- [まる](https://www.koyamori.ca)
+- [荻pote](https://ogipote.com)
+- [吉田誠治](https://yoshidaseiji.jp)
+- [まんぷくアートスタジオ はち](https://manpuku-art-studio.com)
+- [rurudo](https://rurudot.net)
+- [モー助](http://www.mo-suke.com)
+- [ノザキ](https://nozaki.main.jp)
+- [羊歯](https://shida-art.com)
+- [Amir Zand](https://amirzand.art)
+- [ケイゴイノウエ](https://www.keigo-inoue.com)
+- [大槍葦人](https://oyariashito.net)
+- [junkuma](https://www.kumaori.info)
+- [三輪士郎](https://mmm-gee.net)
+- [サタケシュンスケ](https://shunsukesatake.com)
+- [miya*ki](https://www.miyaki-works.com)
+- [アボガド6](https://www.avogado6.com)
+- [みっちぇ](https://miche-illustrator.com)
+- [6vcr](https://6vcr.com)
+- [須田彩加](http://ayakasuda.com)
+- [マツオヒロミ](https://www.matsuohiromi.com)
+- [紺野真弓](https://www.mayumikonno.com)
+- [KUSHIMA Yu](https://island9.net)
+- [qtonagi](https://qtonagi.art)
+- [夜汽車](https://yogisya.art)
+- [しらたま❄](https://shiratamaco.com)
+- [タカヤマトシアキ](https://t-com.moo.jp)
+- [よー清水](https://www.yo-shimizu.com)
+- [出水ぽすか](https://posuka.iinaa.net)
 
 ### 個性とデザインの両立
 
